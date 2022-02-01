@@ -1,0 +1,12 @@
+{
+    "app": {
+        "name": "NodeJS prod",
+        "mode": "Production mode",
+        "host": {
+            "hosting": "localhost",
+            "port": "5000"
+        },
+        "author": "George Quezada",
+        "date": "Dec/15/2021"
+    }
+}
